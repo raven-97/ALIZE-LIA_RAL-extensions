@@ -1,5 +1,5 @@
-AC_INIT([libalize],[3.0],[dev-alize@listes.univ-avignon.fr])
-AM_INIT_AUTOMAKE(libalize,3.0)
+AC_INIT([libalize],[3.0])
+AM_INIT_AUTOMAKE
 
 AC_PROG_CXX
 AM_PROG_LIBTOOL
