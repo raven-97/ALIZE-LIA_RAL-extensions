@@ -44,7 +44,7 @@ $ cd LIA_RAL_3.0/
 $ aclocal
 $ automake
 $ autoconf
-$ ./configure --with-alize YourDirectory/ALIZE_3.0/ --enable-MT
+$ ./configure --with-alize=YourDirectory/ALIZE_3.0/ --enable-MT
 $ make
 ```
 
