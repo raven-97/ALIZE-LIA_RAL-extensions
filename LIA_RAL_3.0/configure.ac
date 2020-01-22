@@ -1,5 +1,5 @@
-AC_INIT([LIA_RAL], [3.0], [dev-alize@listes.univ-avignon.fr])
-AM_INIT_AUTOMAKE(LIA_RAL,3.0)
+AC_INIT([LIA_RAL], [3.0])
+AM_INIT_AUTOMAKE
 
 # Checks for programs.
 AC_PROG_CXX
